@@ -1,0 +1,10 @@
+C:\Users\micha\source\repos\toproper\toproper\bin\Debug\toproper.exe.config
+C:\Users\micha\source\repos\toproper\toproper\bin\Debug\toproper.exe
+C:\Users\micha\source\repos\toproper\toproper\bin\Debug\toproper.pdb
+C:\Users\micha\source\repos\toproper\toproper\obj\Debug\toproper.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\toproper\toproper\obj\Debug\toproper.Form1.resources
+C:\Users\micha\source\repos\toproper\toproper\obj\Debug\toproper.Properties.Resources.resources
+C:\Users\micha\source\repos\toproper\toproper\obj\Debug\toproper.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\toproper\toproper\obj\Debug\toproper.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\toproper\toproper\obj\Debug\toproper.exe
+C:\Users\micha\source\repos\toproper\toproper\obj\Debug\toproper.pdb
